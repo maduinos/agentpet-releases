@@ -1,3 +1,7 @@
+> 만든 사람: maduinos<br>
+> 문서 만든 날짜: 2026-08-28<br>
+> https://maduinos.blogspot.com/
+
 # AgentPet — Releases
 
 AgentPet 배포 산출물(.deb) 저장소입니다.
