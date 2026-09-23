@@ -15,7 +15,7 @@ AgentPet은 Codex, Claude Code, Cursor 에이전트 활동을 바탕화면 캐�
 ## 설치 (Ubuntu 22.04 / 24.04 amd64)
 
 ```bash
-sudo apt install ./agentpet_0.2.22_amd64.deb
+sudo apt install ./agentpet_0.2.28_amd64.deb
 ```
 
 Python이나 pip을 따로 설치할 필요는 없습니다. 런타임이 패키지에 포함되어 있습니다.
@@ -41,7 +41,7 @@ agentpet setup --autostart
 릴리즈 노트의 SHA-256 값과 아래 명령 결과를 비교하세요.
 
 ```bash
-sha256sum agentpet_0.2.22_amd64.deb
+sha256sum agentpet_0.2.28_amd64.deb
 ```
 
 소스 코드와 개발 이슈는 [maduinos/AgentPet](https://github.com/maduinos/AgentPet) 저장소를 참고하세요.
