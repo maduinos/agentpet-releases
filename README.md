@@ -45,3 +45,12 @@ sha256sum agentpet_0.2.28_amd64.deb
 ```
 
 소스 코드와 개발 이슈는 [maduinos/AgentPet](https://github.com/maduinos/AgentPet) 저장소를 참고하세요.
+
+## 캐릭터 번들
+
+릴리즈에 포함된 `agentpet-characters-0.2.28.zip`은 AgentPet에서 불러올 수 있는
+개인·비상업용 캐릭터 번들입니다. 압축을 푼 뒤 `characters` 폴더를 캐릭터
+관리 화면에서 선택하세요.
+
+캐릭터의 사용 조건과 권리 책임은 [캐릭터 번들 이용 조건](AGENTPET_CHARACTER_BUNDLE_NOTICE.md)을
+확인하세요. AI 생성 자산도 제3자 권리를 자동으로 보증하지 않습니다.
