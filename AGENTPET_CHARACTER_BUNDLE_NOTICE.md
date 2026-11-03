@@ -33,7 +33,7 @@ removal via the issue tracker above.
 
 ## 설치
 
-1. 릴리즈의 `agentpet-characters-0.2.36.zip`을 받습니다.
+1. 릴리즈의 `agentpet-characters-0.2.37.zip`을 받습니다.
 2. 압축을 풉니다.
 3. AgentPet의 캐릭터 관리 화면에서 압축 해제된 `characters` 폴더를 선택합니다.
 
